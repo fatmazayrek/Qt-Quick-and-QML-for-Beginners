@@ -6,4 +6,4 @@ You can use different properties on your Project. For example you can use a Qt.C
 
 I hope it makes all clear✅
 
-![image](https://github.com/fatmazayrek/Qt_Quick_and_QML_for_Beginners/assets/91613858/9590118d-ed78-44de-a979-54f3f954450f)
+![image](https://github.com/fatmazayrek/Qt_Quick_and_QML_for_Beginners/assets/91613858/b2a1e38d-b727-42cd-a3c3-6d876a86cec1)
