@@ -6,6 +6,6 @@ There is a Row and there are 4 different Rectangle in this Row. When you Click t
 
 Row has 4 Children and each child has own children like Text and MouseArea✅
 
-![image](https://github.com/fatmazayrek/Qt_Quick_and_QML_for_Beginners/assets/91613858/31224d2f-1376-4bb1-bde9-80ad2f9e75d1)
+![image](https://github.com/fatmazayrek/Qt_Quick_and_QML_for_Beginners/assets/91613858/e53aad30-ad25-47dc-b760-30d804d96524)
 
 I hope it makes all clear😊
