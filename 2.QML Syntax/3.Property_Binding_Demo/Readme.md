@@ -10,4 +10,4 @@ But when you click the Green button, height of the Red Rectangle is 2 times of t
 
 I hope it makes all clear🌞
 
-![image](https://github.com/fatmazayrek/Qt_Quick_and_QML_for_Beginners/assets/91613858/fd71d6bf-480a-41a2-92c7-18c5bf31e238)
+![image](https://github.com/fatmazayrek/Qt_Quick_and_QML_for_Beginners/assets/91613858/b265a51c-6a77-4714-a110-009aea840edf)
