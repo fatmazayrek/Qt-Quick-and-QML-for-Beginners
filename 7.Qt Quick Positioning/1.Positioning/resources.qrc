@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/fluent-emoji_hamburger.png</file>
+        <file>images/fxemoji_tomato.png</file>
+        <file>images/game-icons_doner-kebab.png</file>
+        <file>images/lucide_soup.png</file>
+        <file>images/mdi_pasta.png</file>
+        <file>images/noto_meat-on-bone.png</file>
+        <file>images/noto_onion.png</file>
+        <file>images/noto_potato.png</file>
+        <file>images/twemoji_pizza.png</file>
+    </qresource>
+</RCC>

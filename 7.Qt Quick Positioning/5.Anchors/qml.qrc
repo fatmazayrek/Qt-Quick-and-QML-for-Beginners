@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MRectangle.qml</file>
+        <file>MItem.qml</file>
+    </qresource>
+</RCC>
