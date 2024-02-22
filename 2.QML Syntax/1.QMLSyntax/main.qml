@@ -75,7 +75,7 @@ Window {
             MouseArea {
                 anchors.fill: parent
                 onClicked: {
-                    console.log("Clicked the yellow button")
+                    console.log("Clicked the gray button")
                     textID.text = "Hello From gray"
                 }
             }
